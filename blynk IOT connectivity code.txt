@@ -1,0 +1,7 @@
+//Blynk IOT FIRMWARE CONFIGURATION code.
+
+#define BLYNK_TEMPLATE_ID "TMPL3cu5EN-XP"
+#define BLYNK_TEMPLATE_NAME "WATERPUMP"
+#define BLYNK_AUTH_TOKEN "SpX7L5K5CMd71f5yxfGv56qHLjRrXPve"
+
+//Template ID, Device Name, and AuthToken should be declared at the very top of the firmware code.
